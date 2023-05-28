@@ -1,0 +1,32 @@
+body{
+    background-color: orange;
+}
+.navbar{
+    background-color: black;
+    color: white;
+    padding:2px;
+    /* height: 60px; */
+    text-align: center;
+}
+.icon{
+    height: 40px;
+    width: 40px;
+    margin-top: 50px;
+    border: 2px solid cadetblue;
+    margin-left: 5px;
+    background-color: aliceblue;
+}
+.display{
+    /* display: flex; */
+    display: flex;
+    margin-left: 500px;
+}
+.search{
+    margin-top: 50px;
+    height: 40px;
+    width: 400px;
+    border:2px solid cadetblue;
+}
+.cosmic{
+    border:1px solid red;
+}
